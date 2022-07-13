@@ -1,3 +1,0 @@
-# mixBlendMode
-
-![](mixBlendMode.gif)
