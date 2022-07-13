@@ -1,1 +1,3 @@
-# zahidesel-mixBlendMode
+# mixBlendMode
+
+![](mixBlendMode.gif)
